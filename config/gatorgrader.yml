@@ -11,7 +11,7 @@ writing/reflections.md:
     MatchFileFragment --fragment "TODO" --count 0 --exact
 
 # --> check the technical writing
-writing/reflections.md:
+writing/report.md:
     ConfirmFileExists
     MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
     MatchFileFragment --fragment "TODO" --count 0 --exact
