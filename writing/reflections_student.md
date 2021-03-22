@@ -6,14 +6,14 @@ Date: 22 March 2021
 
 Please respond to the following questions using about 100 words.
 
-1. _We Now Know How to Code for Our Vaccines_: If safe vaccines can be created to combat viruses, then, in your opinion, would providing (free) technical education about the design and creation of vaccines be enough to help change the minds of those who oppose vaccines? Why or why not? What else might be necessary to make an argument for vaccine safety? Note: if you are not personally convinced that vaccines are safe, please take the position that you would like to find a way to convince others of vaccine safety.
+1. _We Now Know How to Code for Our Vaccines_: If safe vaccines can be created to combat viruses, then, in your opinion, would providing (free) technical education about the design and creation of vaccines (i.e., vaccine transparency) be enough to help change the minds of those who oppose vaccines? Why or why not? What else might be necessary to make an argument for vaccine safety? Note: if you are not personally convinced that vaccines are safe, please take the position that you would like to find a way to convince others of vaccine safety.
 
 TODO
 
 
-2. _We Actually Learned How to Use Our Digital Infrastructure_: The second part of the article mentions that the pandemic has taught people how to use online tools such as Zoom to connect people online for the attendance of meetings, work, classes and other events. Tele-medicine, or using Zoom to connect patients and doctors, was mentioned as a favorable example of maintaining medical appointments.
+2. _We Actually Learned How to Use Our Digital Infrastructure_: The second part of the article mentions that the pandemic has taught people how to use online tools such as Zoom to connect people online for the attendance of meetings, work, classes and other events. Tele-medicine, or using online tools to connect patients to their doctors for appointments, was mentioned as a favorable example for maintaining health in the community.
 
-In your opinion, will tele-medicine become the normal way of allowing patients and doctors to hold appointments after the pandemic? Also in your opinion, how will the in-person patient-doctor relationship be impacted as a result of online tele-medicine visits after the pandemic?  
+In your opinion, will tele-medicine become the normal way of allowing patients and doctors to hold appointments after the pandemic? In your opinion, how will the in-person patient-doctor relationship be impacted as a result of online tele-medicine visits after the pandemic? For instance, could there be trust issues if the patient believes that there is a technical boundary between him or herself, and the doctor? Why or why not?
 
 
 TODO
@@ -29,3 +29,5 @@ TODO
 
 
 If you used citations, please list your references here:
+
+TODO

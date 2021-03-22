@@ -5,7 +5,7 @@ Date: 22 March 2021
 #### Report
 
 ### Known and Unknown Sequence Matching
-Provide your proof of the matching here.
+Provide your proof of the matching here. Please also explain your reasoning behind argument using clear and meaningful language, in addition to a screen shot which can be placed below by modifying the markdown code.
 
 TODO
 
